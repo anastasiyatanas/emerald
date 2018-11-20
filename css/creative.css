@@ -178,7 +178,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/dinner-dish-egg-54455 copy.jpg");
   background-position: center center;
   background-size: cover;
 }
@@ -222,6 +222,9 @@ header.masthead p {
 
 .service-box {
   max-width: 400px;
+}
+.img-fluid1 {
+  margin-left: 65px;
 }
 
 .portfolio-box {
